@@ -8,3 +8,5 @@ perf nsys
 https://fengmuzi2003.gitbook.io/csapp3e/
 ```
 
+ # 原码 反码 补码
+ - 在计算机中通常使用补码，其操作就是在反码的基础上+1，这样的话就不存在＋－0的情况
