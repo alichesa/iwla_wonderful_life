@@ -17,3 +17,6 @@ https://fengmuzi2003.gitbook.io/csapp3e/
  # 数值类型
  - 负数如果直接使用unsigned则会变成一个很大的数，这是因为补码存储形式和字节解释导致的
 
+ # Git
+ - diff与patch：diff用于查询两个文件之间的差异，patch用于从其中一个推算出另外一个
+ - 
