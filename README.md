@@ -19,4 +19,5 @@ https://fengmuzi2003.gitbook.io/csapp3e/
 
  # Git
  - diff与patch：diff用于查询两个文件之间的差异，patch用于从其中一个推算出另外一个
+ - git init 新建， git lsf clone可以用于二进制， git diff看差异， git status看状态， git branch查看分支
  - 
